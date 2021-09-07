@@ -1,0 +1,1 @@
+worker: python3 -m chi_tg_inline_bot.__main__
