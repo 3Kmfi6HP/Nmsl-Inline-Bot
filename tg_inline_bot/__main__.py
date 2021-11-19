@@ -31,11 +31,11 @@ async def update_corpus():
 
 @dp.message_handler(commands=['start'])
 async def send_welcome(message: types.Message):
-    await message.answer("Hi!\nI'm @Cina_Nmsl_Bot!\nPowered by @xixicui_bot.\nUsing https://i.imgur.com/lh8Wh6w.jpg")
+    await message.answer("Hi!\nI'm bot")
 
 @dp.message_handler(commands=['location'])
 async def send_welcome(message: types.Message):
-    await message.answer("Hi!\nI'm @Cina_Nmsl_Bot!\nSending your location via map here!")
+    await message.answer("Sending your location via map here!")
 
 @dp.message_handler(content_types=['location'])
 async def handle_location(message: types.Message):
