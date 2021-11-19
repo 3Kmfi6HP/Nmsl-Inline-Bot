@@ -1,6 +1,5 @@
 # Telegram NM$L Inline Bot
 
-
 ## 使用方式
 
 在任意聊天窗口输入 @xxx_bot 即会随机弹出至多五句语录，输入文字更可过滤筛选语录，
