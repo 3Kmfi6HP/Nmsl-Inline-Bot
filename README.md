@@ -17,6 +17,9 @@
 $ pip install -r requirements.txt
 $ API_TOKEN=<your_token_here> python -m chi_tg_inline_bot.__main__
 ```
+## What is this
+The recent meme war between Thai and Chinese netizens, NMSL (Chinese: 你妈死了; pinyin: nǐmāsǐle; lit. 'Your mom is dead'), used as an insult. for this project is provides some insults Chinese sentences in telegram bot.
+
 ## How to use
 
 Enter @yout_bot_username in any chat window, and up to five quotations will pop up randomly, and you can filter the quotations by entering text.
